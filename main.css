@@ -46,7 +46,3 @@ ul li {
     cursor: pointer;
     padding-top: 8px;
 }
-
-ul li::click {
-    text-decoration: line-through;
-}
