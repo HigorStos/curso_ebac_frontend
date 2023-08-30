@@ -12,6 +12,7 @@
 - HTML
 - CSS
 - JavaScript
+- Ajax
 - jQuery
 - Bootstrap
 - SASS
