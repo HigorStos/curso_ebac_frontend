@@ -9,11 +9,12 @@
 
 ## 🚀 Tecnologias
 
+- JavaScript
+- TypeScript
+- Bootstrap
+- Sass
+- Ajax
+- Gulp
+- jQuery
 - HTML
 - CSS
-- JavaScript
-- Ajax
-- jQuery
-- Bootstrap
-- SASS
-- Gulp
